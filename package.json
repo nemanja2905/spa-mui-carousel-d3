@@ -1,0 +1,58 @@
+{
+  "name": "spa-mui-carousel-d3",
+  "version": "0.1.0",
+  "description": "test project for Paste.ee",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemanja2905/spa-mui-carousel-d3.git"
+  },
+  "keywords": [
+    "mui",
+    "carousel",
+    "d3",
+    "spa",
+    "next"
+  ],
+  "author": "Nemanja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemanja2905/spa-mui-carousel-d3/issues"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "homepage": "https://github.com/nemanja2905/spa-mui-carousel-d3#readme",
+  "dependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/lab": "^5.0.0-alpha.78",
+    "@mui/material": "^5.6.2",
+    "@mui/styles": "^5.6.2",
+    "@svgr/webpack": "^6.2.1",
+    "axios": "^0.26.1",
+    "d3": "^7.4.4",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-d3-basic": "^1.6.11",
+    "react-d3-core": "^1.3.9",
+    "react-dom": "^18.0.0",
+    "react-material-ui-carousel": "^2.3.11",
+    "react-redux": "^8.0.0",
+    "react-swipeable-views": "^0.14.0",
+    "react-swipeable-views-utils": "^0.14.0",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
+  }
+}
